@@ -79,7 +79,7 @@
 							<goal>push</goal>
 						</goals>
 						<configuration>
-							<image>sharmasudhakar3/my-image:${project.version}</image>
+							<image>sharmasudhakar3/my-image</image>
 							<serverId>docker-hub</serverId>
 							<pushImage>true</pushImage>
 						</configuration>
